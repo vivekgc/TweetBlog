@@ -4,13 +4,7 @@
   <artifactId>Assignment1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <dependency>
-    <groupId>javax.servlet</groupId>
-    <artifactId>javax.servlet-api</artifactId>
-    <version>3.0.1</version>
-    <scope>provided</scope>
-</dependency>
-  <build>
+   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
