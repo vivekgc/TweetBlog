@@ -8,8 +8,8 @@
          <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
-            <version>3.1.0</version> //Change the version as per your needs
-            <scope>provided</scope> //use provided if you are deploying war in a container
+            <version>3.1.0</version> 
+            <scope>provided</scope> 
         </dependency>
   </dependencies>
    <build>
